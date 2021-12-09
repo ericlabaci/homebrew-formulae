@@ -1,7 +1,7 @@
 class SwiftDoubleGenerator < Formula
   desc "Double generator to protocols"
   homepage "https://github.com/ericlabaci/swift-double-generator"
-  url "https://github.com/ericlabaci/swift-double-generator.git", tag: "0.0.6"
+  url "https://github.com/ericlabaci/swift-double-generator.git", tag: "0.0.7"
   license ""
   head "https://github.com/ericlabaci/swift-double-generator.git"
 
